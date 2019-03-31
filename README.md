@@ -28,3 +28,5 @@ After create the alias, they can be used in the same way that installing Spark. 
 ```sh
 spark-shell
 ```
+
+>This image has set the working directory at ```/app```.
